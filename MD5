@@ -1,4 +1,4 @@
-0c9c695bf68031f53d9d4cef3e5ad48e *DESCRIPTION
+8d138af26d458e256b4bf67ed049697f *DESCRIPTION
 0f393d50ccbbfc02ef266d5a665ff41a *NAMESPACE
 09dcd61004bd44576a426c0eaf5adba0 *NEWS.md
 c7d8af5e1ceeb8db2b660caf94ca9f99 *R/RcppExports.R
@@ -6,7 +6,7 @@ c7d8af5e1ceeb8db2b660caf94ca9f99 *R/RcppExports.R
 1fee39892ad2967b3f0f5a74681d8caf *R/standard_errors.R
 e814c1842a6d726554d1c6c9a4d1a33b *R/svine.R
 7165207197c2e9b7bdc6edcc9d919e93 *R/svine_methods.R
-9887c86d1e7d4b494a2b51ce14252d48 *R/svinecop.R
+b6c534c716343f43cdcaa60b2adc4efd *R/svinecop.R
 acc0c382fe9572f2ab33874d2b979ce8 *R/svinecop_methods.R
 cf1c379900a450a0c5ce51783604565c *R/svines-package.R
 348fe4e093b87cf1504c186519cef033 *R/tools_select.R
@@ -16,7 +16,7 @@ cf1c379900a450a0c5ce51783604565c *R/svines-package.R
 892b54d1e0f6c4d38044497647f9ddea *inst/include/svines.hpp
 39aed910e2e30b1f51dfd21c778c050c *inst/include/svines/implementation/svine_selector.ipp
 86c0b88696018e3fa6fcd05fe49150ae *inst/include/svines/implementation/svine_structure.ipp
-86d496a608e5c9d8f0f2f0d3c2c8f7a1 *inst/include/svines/implementation/svinecop.ipp
+0c9a688e8fbb59be19f1fd2f1d6b78d5 *inst/include/svines/implementation/svinecop.ipp
 dc45a6248c4156047a02b4d792280523 *inst/include/svines/svine_selector.hpp
 9a3cb8ae0914c802ff5d561621791896 *inst/include/svines/svine_structure.hpp
 bfff6cbbde1d6db61c0384e374911951 *inst/include/svines/svinecop.hpp
