@@ -1,3 +1,9 @@
+# svines 0.2.3
+
+* No longer restrict to the C++11 standard.
+
+* Prepare for Eigen 3.4 update (thanks to @andrjohns, #3)
+
 # svines 0.2.0
 
 * Add new functions to compute pseudo-resiudals.
