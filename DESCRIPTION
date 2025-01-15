@@ -1,6 +1,6 @@
 Package: svines
 Title: Stationary Vine Copula Models
-Version: 0.2.3
+Version: 0.2.4
 Authors@R: 
     person(given = "Thomas",
            family = "Nagler",
@@ -18,10 +18,10 @@ Depends: R (>= 4.0.0), rvinecopulib (>= 0.6.1.1.2)
 Imports: Rcpp, assertthat, univariateML, wdm, fGarch
 LinkingTo: RcppEigen, Rcpp, RcppThread, BH, wdm, rvinecopulib
 Suggests: testthat, ggraph, covr
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.2
 NeedsCompilation: yes
-Packaged: 2024-01-18 16:53:50 UTC; n5
+Packaged: 2025-01-15 11:22:40 UTC; n5
 Author: Thomas Nagler [aut, cre]
 Maintainer: Thomas Nagler <mail@tnagler.com>
 Repository: CRAN
-Date/Publication: 2024-01-18 17:10:02 UTC
+Date/Publication: 2025-01-15 11:40:02 UTC

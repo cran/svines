@@ -1,8 +1,6 @@
-# svines 0.2.3
+# svines 0.2.4
 
-* No longer restrict to the C++11 standard.
-
-* Prepare for Eigen 3.4 update (thanks to @andrjohns, #3)
+* Adapt to new rvinecopulib version.
 
 # svines 0.2.0
 
