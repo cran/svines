@@ -1,6 +1,6 @@
-b87e9c419fddb38a8c03705d68ac83ac *DESCRIPTION
+86ad8718d38c35866a4a4c74445e9c7f *DESCRIPTION
 2298468083680b1affbe54068c3f99be *NAMESPACE
-ba680b1acadf39d258f8c83546c2d3e3 *NEWS.md
+466b254b4ab1d6bea7f35c4fbbe17387 *NEWS.md
 624256f094e4613e07838b247b3e16cd *R/RcppExports.R
 01e0eae571c997c80b9146ff35edb5ca *R/returns.R
 1fee39892ad2967b3f0f5a74681d8caf *R/standard_errors.R
@@ -9,10 +9,10 @@ ba680b1acadf39d258f8c83546c2d3e3 *NEWS.md
 ee5564e18ac334f2b4e74d015ef65466 *R/svinecop.R
 3f745a864356a85594032639eec649b5 *R/svinecop_methods.R
 cf1c379900a450a0c5ce51783604565c *R/svines-package.R
-913787e2f50f9184e0b77c37b84007e2 *R/tools_select.R
+2d8771985af509ab183e86089edc2168 *R/tools_select.R
 383b4beb6fb0ab3a0addf15d906876a4 *R/vcl-tools.R
 6ea66c4cc4320450bf01ad1f9ef69d79 *README.md
-76161b65639451c966be75488458b3c3 *build/partial.rdb
+b52aabe9a2757fc86742763db9dafc9b *build/partial.rdb
 6a9db7deafdfc053c24553cc5ec8959b *data/returns.rda
 892b54d1e0f6c4d38044497647f9ddea *inst/include/svines.hpp
 b17339eebc0f6d1d9b31d5ea2816e8de *inst/include/svines/implementation/svine_selector.ipp
@@ -49,4 +49,4 @@ d05be7ccc45707aabfff147631d1c1da *src/Makevars
 1f21590b5c4df89e878772ed60103b5a *src/wrappers_svine.cpp
 8cd9513eece3380c8d064d79d09be521 *tests/testthat.R
 9b91ece327487a83498b33f1fc45345f *tests/testthat/test-svine.R
-7e2b1e615ef4f6b089ee1b68323b1585 *tests/testthat/test-svinecop.R
+5cdc8fbfc174a042717638d6d2651250 *tests/testthat/test-svinecop.R
